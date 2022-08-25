@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
+  "version": "1.0.9",
   "platforms": {
     "macos-x86_64": "https://ghproxy.net/https://github.com/pashangshangpo/app-update-version/releases/download/0.01/MarkdownEvernote.app.tar.gz",
     "windows-x86_64": "https://ghproxy.net/https://github.com/pashangshangpo/app-update-version/releases/download/0.01/MarkdownEvernote.app.tar.gz"
