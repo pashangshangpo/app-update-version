@@ -1,7 +1,7 @@
 {
-  "version": "1.0.12",
+  "version": "1.0.13",
   "platforms": {
-    "macos-x86_64": "",
-    "windows-x86_64": ""
+    "macos-x86_64": "https://ghproxy.net/https://github.com/pashangshangpo/app-update-version/releases/download/XimalayaDownload_1.0.13/mac_XimalayaDownload_1.0.13.zip",
+    "windows-x86_64": "https://ghproxy.net/https://github.com/pashangshangpo/app-update-version/releases/download/XimalayaDownload_1.0.13/windows_XimalayaDownload_1.0.13.zip"
   }
 }
