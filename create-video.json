@@ -1,7 +1,7 @@
 {
-  "version": "1.0.0",
+  "version": "1.2.0",
   "platforms": {
-    "macos-x86_64": "",
-    "windows-x86_64": ""
+    "macos-x86_64": "https://lire.oss-cn-hangzhou.aliyuncs.com/ossp/mac_CreateVideo_1.2.0.zip",
+    "windows-x86_64": "https://lire.oss-cn-hangzhou.aliyuncs.com/ossp/windows_CreateVideo_1.2.0.zip"
   }
 }
